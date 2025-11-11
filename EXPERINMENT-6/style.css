@@ -5,3 +5,8 @@ body{
     text-align: center;
     margin: 20px;
 }
+/* Heading styling */
+h1{
+    color:black;
+    margin-bottom: 30px;
+}
