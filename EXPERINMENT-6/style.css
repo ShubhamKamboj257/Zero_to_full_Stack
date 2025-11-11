@@ -43,3 +43,10 @@ h1{
     font-size: 14px;
     margin: 10px 0;
 }
+
+/* Product Price */
+#price{
+    color:darkslategrey;
+    font-weight: bolder;
+    margin-bottom: 15px;
+}
