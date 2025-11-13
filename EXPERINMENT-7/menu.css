@@ -4,3 +4,12 @@ body{
     margin: 20px;
 
 }
+/*block example*/
+.block-menu a{
+    display: block;
+    background-color: antiquewhite;
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+    text-decoration:none;
+}
