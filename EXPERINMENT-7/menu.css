@@ -13,3 +13,12 @@ body{
     margin: 5px 0;
     text-decoration:none;
 }
+
+/*Inline Elements*/
+.inline-menu a {
+    display: inline;
+    background-color: bisque;
+    padding: 5px;
+    margin:5px;
+    text-decoration: none;
+}
