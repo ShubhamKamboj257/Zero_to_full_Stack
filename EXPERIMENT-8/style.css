@@ -24,3 +24,7 @@ body{
     box-shadow: 0 4px 8px rgba(4, 42, 234, 0.721);
     
 }
+.para{
+    display:block;
+    text-align: center;
+}
