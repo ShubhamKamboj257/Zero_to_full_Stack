@@ -46,6 +46,7 @@ h1{
 
 /* Product Price */
 #price{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:darkslategrey;
     font-weight: bolder;
     margin-bottom: 15px;
